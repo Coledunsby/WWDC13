@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Headers</key>
+	<array>
+		<string>Profile</string>
+		<string>Work Experience</string>
+		<string>Education</string>
+		<string>Achievements</string>
+		<string>Languages</string>
+		<string>Computer Knowledge</string>
+		<string>Community Involvement &amp; Volunteer Work</string>
+		<string>Extra-Curricular Activities</string>
+		<string>Citizenship</string>
+	</array>
+	<key>Profile</key>
+	<string>Significant experience in the field of computer programming, excellent organizational and leadership skills, works well in a group as well as independently.</string>
+	<key>Work Experience</key>
+	<array>
+		<array>
+			<string>iOS Application Developer</string>
+			<string>&quot;Vanquish&quot;</string>
+			<string>Released March 16, 2013</string>
+		</array>
+		<array>
+			<string>Designer, Website Prototype</string>
+			<string>École de technologie supérieure</string>
+			<string>Montréal, Québec</string>
+			<string>Summer 2012</string>
+		</array>
+		<array>
+			<string>iOS Application Developer</string>
+			<string>&quot;Rainbow Recall&quot;</string>
+			<string>Released September 5, 2012</string>
+		</array>
+		<array>
+			<string>Designer, Telecommunication Network Design</string>
+			<string>Dunsby Communications Inc.</string>
+			<string>Rosemère, Québec</string>
+			<string>Summer 2011</string>
+		</array>
+		<array>
+			<string>iOS Application Developer</string>
+			<string>&quot;CalcuRace&quot;</string>
+			<string>Released September 28, 2010</string>
+		</array>
+	</array>
+	<key>Education</key>
+	<array>
+		<array>
+			<string>Faculty of Engineering,</string>
+			<string>Software Engineering,</string>
+			<string>University of Ottawa</string>
+			<string>Ottawa, Ontario, Canada</string>
+			<string>Fall 2012 - Present</string>
+		</array>
+		<array>
+			<string>Calculus and Vectors (MCV4U)</string>
+			<string>Virtual High School (Online)</string>
+			<string>Fall 2012</string>
+		</array>
+		<array>
+			<string>High School Diploma (Second Honors)</string>
+			<string>Loyola High School</string>
+			<string>Montréal, Québec, Canada</string>
+			<string>2007 - 2012</string>
+		</array>
+		<array>
+			<string>Kindergarten through Grade 6</string>
+			<string>McCaig Elementary School</string>
+			<string>Rosemère, Québec, Canada</string>
+			<string>2000 - 2007</string>
+		</array>
+	</array>
+	<key>Achievements</key>
+	<array>
+		<array>
+			<string>Nortel Networks Scholarship</string>
+			<string>Admission Scholarship</string>
+			<string>University of Ottawa</string>
+		</array>
+		<array>
+			<string>Website Designer</string>
+			<string>Student Stock Exchange 2012</string>
+			<string>Award for Best Web Design</string>
+		</array>
+		<array>
+			<string>Volunteer</string>
+			<string>Christian Service Program</string>
+			<string>Medal of Distinguished Service</string>
+		</array>
+	</array>
+	<key>Languages</key>
+	<string>Spoken and written: English and French</string>
+	<key>Computer Knowledge</key>
+	<string>Microsoft Office Suite, Objectel, Remedy, AutoCAD, Photoshop, Dreamweaver, Unity, Xcode, Eclipse and Visual Basic, as well as several programming languages (HTML, Javascript, PHP, CSS, SQL, C, C#, C++, Objective C, Java and BASIC).</string>
+	<key>Community Involvement &amp; Volunteer Work</key>
+	<array>
+		<string>Saint Andrew’s Senior’s Residence</string>
+		<string>Annual NDG Food Drive</string>
+		<string>Sarah Cook Fund for Pediatric Oncology, Cedars Cancer Institute</string>
+		<string>The CARE Centre for Physically-Disabled Adults in Montreal</string>
+		<string>Lorraine-Rosemère Novice Hockey Tournament</string>
+		<string>Loyola Parent’s Association Event</string>
+		<string>McCaig Elementary School</string>
+		<string>Labre House Day Centre for the Homeless</string>
+		<string>Angel Hair for Kids</string>
+	</array>
+	<key>Extra-Curricular Activities</key>
+	<array>
+		<string>2011-2012 Loyola Rugby, Juvenile</string>
+		<string>2011-2012 Loyola Warriors, Juvenile Hockey</string>
+		<string>2009-2010 Loyola Braves, Bantam Hockey</string>
+		<string>2009-2010 Lorraine-Rosemère, Bantam CC Hockey</string>
+		<string>2008-2009 Loyola Cross-Country Running</string>
+		<string>2008-2009 Lorraine-Rosemère, Bantam CC Hockey</string>
+		<string>2007-2008 Loyola Scouts, Pee Wee Hockey</string>
+		<string>2007-2008 Lorraine-Rosemère, Pee Wee CC Hockey</string>
+	</array>
+	<key>Citizenship</key>
+	<array>
+		<string>U.S. Citizen (Born in Frederick, Maryland USA)</string>
+		<string>Canadian Citizen (Natural-born citizen)</string>
+	</array>
+</dict>
+</plist>

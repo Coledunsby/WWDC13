@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Now Available</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>CalcuRace</string>
+			<key>image</key>
+			<string>CalcuRace.png</string>
+			<key>link</key>
+			<string>itms-apps://itunes.apple.com/ca/app/calcurace/id393205562</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Rainbow Recall</string>
+			<key>image</key>
+			<string>RainbowRecall.png</string>
+			<key>link</key>
+			<string>itms-apps://itunes.apple.com/ca/app/rainbow-recall/id556384004</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Vanquish</string>
+			<key>image</key>
+			<string>Vanquish.png</string>
+			<key>link</key>
+			<string>itms-apps://itunes.apple.com/ca/app/vanquish/id605661371</string>
+		</dict>
+	</array>
+	<key>Coming Soon</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>iSoundFX</string>
+			<key>image</key>
+			<string>iSoundFX.png</string>
+			<key>link</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>TuneTamper</string>
+			<key>image</key>
+			<string>TuneTamper.png</string>
+			<key>link</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>In Development</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>Light Me App</string>
+			<key>image</key>
+			<string>LightMeApp.png</string>
+			<key>link</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Smart Bright</string>
+			<key>image</key>
+			<string>SmartBright.png</string>
+			<key>link</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>
